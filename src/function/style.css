@@ -1,0 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+/* menu in css use */
+.navbar1 {
+    background: rgb(248, 111, 111);
+
+}
+
+
+.naa {
+    padding: 0px 50px;
+    font-size: 2vw;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Geneva;
+    color: blanchedalmond;
+}
+
+/* home page css use */
+
+.col {
+    background: rgb(116, 22, 22);
+    color: rgb(132, 235, 201);
+    text-align: justify;
+    padding-top: 15px;
+}
+
+.col1 {
+    background: rgb(95, 46, 46);
+    color: rgb(141, 243, 243);
+    text-align: justify;
+}
+
+.col2 {
+    background: rgb(147, 35, 35);
+    color: rgb(182, 235, 221);
+    text-align: justify;
+}
+
+/* footer in css use */
+
+.footer {
+    padding: 30px;
+    background: black;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+/* Contact in use css  */
+
+.form {
+    background: rgb(116, 22, 22);
+    color: aliceblue;
+    padding: 15px;
+}
+
+.rowcontact {
+    margin-bottom: 30px;
+}
+
+.form span {
+    color: aliceblue;
+    padding: 5px;
+
+}
+
+
+
+/* about in css use */
+
+.row {
+    padding-top: 40px;
+    background:rgb(148, 46, 46)
+}
+
+.row img {
+    padding-top: 22px;
+}
+
+.row img {
+    height: auto;
+    width: 100%;
+}
+
+.row p {
+    font-size: 2vw;
+    color: rgb(3, 100, 100);
+
+}
